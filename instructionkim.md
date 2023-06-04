@@ -48,3 +48,5 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
    *git commit - am 'название комитф'* - добавление файлов в отслеживание и создание коммита.
 
    **git branch -d [branch_name]** - удалить ветку под названием branch_name
+
+   *git log graph* - вывод на экран истории всех коммитов с их хеш-кодами в древовидной форме
