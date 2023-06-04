@@ -45,4 +45,5 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
    *git branch [branch_name]* - создать ветку под названием branch_name
 
-   *git checkout -b [name]* - название ветки> - создание ветки и переход к ней
+   *git commit - am 'название комитф'* - добавление файлов в отслеживание и создание коммита.
+
