@@ -42,3 +42,5 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 ✦	1, 2, 3 … – нумерованные списки
  +
   # Осноыные коианды 2-го семинара
+
+   *git branch [branch_name]* - создать ветку под названием branch_name
