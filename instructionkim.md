@@ -44,3 +44,5 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
   # Осноыные коианды 2-го семинара
 
    *git branch [branch_name]* - создать ветку под названием branch_name
+
+   *git checkout -b [name]* - название ветки> - создание ветки и переход к ней
