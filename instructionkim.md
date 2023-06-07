@@ -70,4 +70,4 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
   
  # основные команды 3-го семинара
  
- 
+ **git pull** - стянуть из удаленного репозитория новые комиты и слить с локальной веткой
